@@ -1,2 +1,2 @@
-# Python-Projects
-A repositroy of self-made and study-related Python projects
+# Study-related Python projects
+ A respisotory for study-related Python projects
